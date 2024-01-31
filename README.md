@@ -2,6 +2,10 @@
 
 # DestroyDog
 
+## About
+
+DestroyDog is a javascript bookmarklet for destroying websites. When launched, it aggressively deletes every element on the page until only it remains. Good for dealing with unhelpful forum threads or unskippable YouTube ads.
+
 ## How to use
 
 1. Create a new bookmark in your web browser.
